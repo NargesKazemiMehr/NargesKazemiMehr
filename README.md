@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NargesKazemiMehr
 - 👀 I’m interested in development including: software and personal development
-- 🏊‍♀️ I do love swimming and i'm a professional swimmer
+- 🏊‍♀️ I love swimming and i'm a professional swimmer
 - 🌱 I’m currently learning nextjs
 - 💞️ I’m looking to collaborate on international companys like Microsoft
 - 📫 How to reach me kazemi.nkm@gmail.com
